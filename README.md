@@ -16,10 +16,6 @@ To run the server:
 ```
 nodemon index
 ```
-To run the client:
-```
-npm run client
-```
 
 You have to edit the db.js with your Postgres information.
 
