@@ -14,7 +14,12 @@ npm install
 
 To run the server:
 ```
-nodemon index
+nodemon server
+```
+
+To run the client:
+```
+npm start
 ```
 
 You have to edit the db.js with your Postgres information.
