@@ -1,4 +1,4 @@
-# PERN STACK
+# PERN STACK BOILERPLATE
 
 ## Getting Started
 
