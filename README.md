@@ -1,4 +1,4 @@
-# STACK PERN
+# PERN STACK
 
 ## Getting Started
 
